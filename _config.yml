@@ -23,11 +23,11 @@ description: Today i Learned
 
 # List of links in the navigation bar
 navbar-links:
-  About: "about"
-  Minisign & PGP: "minisign-pgp"
-  Talks: "talks"
-  Tags: "tags"
-  TIL: "til"
+  About: "https://0xmachos.github.io/about"
+  Minisign & PGP: "https://0xmachos.github.io/minisign-pgp"
+  Talks: "https://0xmachos.github.io/talks"
+  Tags: "https://0xmachos.github.io/tags"
+  TIL: "https://0xmachos.github.io/til"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
