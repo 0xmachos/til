@@ -26,7 +26,7 @@ navbar-links:
   About: "https://0xmachos.github.io/about"
   Minisign & PGP: "https://0xmachos.github.io/minisign-pgp"
   Talks: "https://0xmachos.github.io/talks"
-  Tags: "https://0xmachos.github.io/tags"
+  Tags: "tags"
   TIL: "https://0xmachos.github.io/til"
 
 # Image to show in the navigation bar - image must be a square (width = height)
